@@ -1,0 +1,7 @@
+entity\User.class
+Servlet\UpdateUser.class
+Servlet\DeleteUser.class
+Servlet\AddUser.class
+Servlet\ViewUser.class
+Dao\UserDaoHandler.class
+Servlet\PatchUser.class
